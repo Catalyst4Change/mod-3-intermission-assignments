@@ -10,10 +10,10 @@
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
 
 Complete **one** of the tutorials below to get introduced to React:
-- [ ] [Tyler McGinnis's React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+- [ ] ~~[Tyler McGinnis's React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)~~
 - [ ] [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
-- [ ] [Original Scrimba React Course](https://scrimba.com/playlist/p7P5Hd)
-- [ ] Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React! We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
+- [ ] ~~[Original Scrimba React Course](https://scrimba.com/playlist/p7P5Hd)
+- [ ] ~~Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React! We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
 <!-- * [Updated Scrimba React Course](https://scrimba.com/learn/learnreact) -->
 
 
